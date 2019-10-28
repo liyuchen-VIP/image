@@ -1,0 +1,97 @@
+<!-- 微信小程序编写思路 -->
+<!-- 先编写页面解构 -->
+<!-- 在编写页面样式 -->
+<!-- 最后编写业务逻辑 -->
+<!-- <button>按钮</button> -->
+
+<!-- 小程序有自己独立的标签 -->
+<!-- 例如 image -->
+
+
+<swiper indicator-dots indicator-color="rgba(255,255,255,.6)" indicator-active-color="#fff" autoplay="trun" circular="trun">
+  <swiper-item>
+    <image src='../../static/uploads/slide_1.jpg'></image>
+  </swiper-item>
+  <swiper-item>
+    <image src='../../static/uploads/slide_2.jpg'></image>
+  </swiper-item>
+  <swiper-item>
+    <image src='../../static/uploads/slide_3.jpg'></image>
+  </swiper-item>
+</swiper>
+
+
+<!-- 活动标题 -->
+<!-- view类似于div -->
+<view class='title'>乐园活动</view>
+
+<!-- 活动列表 -->
+<!-- navigator 相当于网页中的啊 a 标签 -->
+<view>
+    <navigator url=''>
+    <image src='../../static/uploads/item_1.png'></image>
+  </navigator>
+  <!-- 活动相关 -->
+  <view class='info'>
+     <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭户外亲子活动</view>
+     <!-- 活动安排 -->
+     <!-- text 相当于网页中的span -->
+     <view class='extra'>
+     <text>200万人已报名</text>
+     <text>本周六开始</text>
+     </view>
+     <!-- 状态 -->
+     <view class='status'>免费</view>
+  </view>
+</view>
+<view>
+    <navigator url=''>
+    <image src='../../static/uploads/item_2.png'></image>
+  </navigator>
+  <!-- 活动相关 -->
+  <view class='info'>
+     <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭户外亲子活动</view>
+     <!-- 活动安排 -->
+     <!-- text 相当于网页中的span -->
+     <view class='extra'>
+     <text>200万人已报名</text>
+     <text>本周六开始</text>
+     </view>
+     <!-- 状态 -->
+     <view class='status'>免费</view>
+  </view>
+</view>
+<view>
+    <navigator url=''>
+    <image src='../../static/uploads/item_3.png'></image>
+  </navigator>
+  <!-- 活动相关 -->
+  <view class='info'>
+     <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭户外亲子活动</view>
+     <!-- 活动安排 -->
+     <!-- text 相当于网页中的span -->
+     <view class='extra'>
+     <text>200万人已报名</text>
+     <text>本周六开始</text>
+     </view>
+     <!-- 状态 -->
+     <view class='status'>免费</view>
+  </view>
+</view>
+<view>
+    <navigator url=''>
+    <image src='../../static/uploads/item_4.png'></image>
+  </navigator>
+  <!-- 活动相关 -->
+  <view class='info'>
+     <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭户外亲子活动</view>
+     <!-- 活动安排 -->
+     <!-- text 相当于网页中的span -->
+     <view class='extra'>
+     <text>200万人已报名</text>
+     <text>本周六开始</text>
+     </view>
+     <!-- 状态 -->
+     <view class='status'>免费</view>
+  </view>
+</view>

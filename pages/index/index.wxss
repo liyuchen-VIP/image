@@ -1,0 +1,65 @@
+/* button {
+  margin: 20px;
+} */
+
+page {
+  background-color: #F0F0F0;
+}
+
+/* .item {
+  margin-bottom: 20rpx;
+} */
+
+swiper image {
+  width: 750rpx;
+  height: 320rpx;
+}
+
+swiper {
+  height: 320rpx;
+}
+
+/* 活动标题 */
+.title {
+  font-size: 28rpx;
+  color: #3C3C3C;
+  font-weight: 900;
+  padding: 20rpx 0  28rpx 20rpx;
+}
+.info {
+  padding: 16rpx 130rpx 20rpx 30rpx;
+  position: relative;
+  height: 180rpx;
+  box-sizing: border-box;
+  background-color: #fff;
+  margin-bottom: 20rpx;
+}
+
+navigator image {
+  width: 750rpx;
+  height: 320rpx;
+}
+/* 活动相关 */
+.name {
+  font-size: 30rpx;
+  padding-bottom: 32rpx;
+  font-weight: 500;
+}
+
+/* 活动安排 */
+.extra {
+  font-size: 22rpx;
+  color: #B4B4B4;
+  position: absolute;
+  bottom:20rpx;
+  
+}
+
+/* 状态 */
+.status {
+  font-size: 32rpx;
+  color: #FE6249;
+  position: absolute;
+  top: 20rpx;
+  right: 30rpx;
+}
