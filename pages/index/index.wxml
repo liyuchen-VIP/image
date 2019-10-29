@@ -10,13 +10,13 @@
 
 <swiper indicator-dots indicator-color="rgba(255,255,255,.6)" indicator-active-color="#fff" autoplay="trun" circular="trun">
   <swiper-item>
-    <image src='../../static/uploads/slide_1.jpg'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/slide_1.jpg'></image>
   </swiper-item>
   <swiper-item>
-    <image src='../../static/uploads/slide_2.jpg'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/slide_2.jpg'></image>
   </swiper-item>
   <swiper-item>
-    <image src='../../static/uploads/slide_3.jpg'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/slide_3.jpg'></image>
   </swiper-item>
 </swiper>
 
@@ -29,7 +29,7 @@
 <!-- navigator 相当于网页中的啊 a 标签 -->
 <view>
     <navigator url=''>
-    <image src='../../static/uploads/item_1.png'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/item_1.png'></image>
   </navigator>
   <!-- 活动相关 -->
   <view class='info'>
@@ -46,7 +46,7 @@
 </view>
 <view>
     <navigator url=''>
-    <image src='../../static/uploads/item_2.png'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/item_2.png'></image>
   </navigator>
   <!-- 活动相关 -->
   <view class='info'>
@@ -63,7 +63,7 @@
 </view>
 <view>
     <navigator url=''>
-    <image src='../../static/uploads/item_3.png'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/item_3.png'></image>
   </navigator>
   <!-- 活动相关 -->
   <view class='info'>
@@ -80,7 +80,7 @@
 </view>
 <view>
     <navigator url=''>
-    <image src='../../static/uploads/item_4.png'></image>
+    <image src='https://liyuchen-vip.github.io/image/static/uploads/item_4.png'></image>
   </navigator>
   <!-- 活动相关 -->
   <view class='info'>
